@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.cache/
+.npm-cache/
+public/models/
+public/ort/
+*.log
+.env*
+public/licenses/
